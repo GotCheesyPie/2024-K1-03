@@ -1,3 +1,16 @@
+# Capstone K1-03
+
+## Anggota
+| Nama               | NIM         |
+|--------------------|-------------|
+| Agustinus Zefanya  | G6401211092 |
+| Angela Prima Lie   | G6401201096 |
+| Hilal Rosyid Putra | G6401211112 |
+| Ifdha'ul Fitri     | G6401211033 |
+| Rafif Rabbani      | G6401211018 |
+| Tan Bima Wiragama  | G6401211085 |
+
+## Crazyflie Tutorial
 Install Ubuntu 20.04
 Install ROS Noetic
 Install Anaconda
